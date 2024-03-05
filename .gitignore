@@ -9,6 +9,8 @@
 /.pnp
 .pnp.js
 
+src/app/api
+
 # testing
 /coverage
 
